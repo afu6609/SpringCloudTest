@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-service-test" />
         <module name="feign" />
+        <module name="config" />
         <module name="eureka" />
         <module name="gateway-service" />
       </profile>
